@@ -36,7 +36,7 @@ const Navbar = () => {
             </Link>
 
             <div>
-                <a href="https://drive.google.com/file/d/1sXZQETTpxKV5cF9aEs226m3oKQcXBlc6/view" target="_blank">
+                <a href="https://drive.google.com/file/d/1Rxkle_YnT_xBxOon0LT0QT5hRbb-RY7M/view?usp=sharing" target="_blank">
                     <Button className="bg-transparent ring-1 ring-zinc-500">
                         Resume  <span className="text-2xl md:text-base mb-1.5 md:ml-1 md:mb-0">{` `}&rarr;</span> 
                     </Button>
