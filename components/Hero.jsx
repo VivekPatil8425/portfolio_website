@@ -33,7 +33,7 @@ export default function Hero() {
                         Data Analyst
                     </h1>
                     <p className="mt-6  text-gray-300  leading-6 text-center">
-                        Welcome to my portfolio! As an MCA student and aspiring data analyst, I specialize in transforming raw data into actionable insights. With expertise in Python, SQL, Excel, and Power BI, I leverage data analysis techniques to solve real-world problems. Explore my projects showcasing data analytics, visualization, and machine learning applications. Let's connect and collaborate on exciting data-driven opportunities!
+                        Welcome to my portfolio! As an MCA student and aspiring data analyst, I specialize in transforming raw data into actionable insights. With expertise in Python, SQL, Excel, and Power BI, I leverage data analysis techniques to solve real-world problems. Explore my projects showcasing data analytics, visualization, and machine learning applications. Let&apos;s connect and collaborate on exciting data-driven opportunities!
 
                     </p>
                     <div className="mt-10 flex items-center justify-center gap-x-6">
